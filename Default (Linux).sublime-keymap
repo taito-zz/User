@@ -1,0 +1,8 @@
+[
+    { "keys": ["ctrl+m"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+m"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["alt+up"], "command": "select_lines", "args": {"forward": false} },
+    { "keys": ["alt+down"], "command": "select_lines", "args": {"forward": true} },
+    { "keys": ["ctrl+shift+c"], "command": "show_panel", "args": {"panel": "console"} }
+]
