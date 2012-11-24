@@ -1,6 +1,7 @@
 {
     "extensions":
     [
-        "cfg"
+        "cfg",
+	"txt"
     ]
 }
